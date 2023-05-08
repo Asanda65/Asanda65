@@ -1,6 +1,6 @@
 ### Hi there 👋, Asanda Basnayake
 #### Design and Development 
-![Design and Development ](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=1060&t=st=1683567123~exp=1683567723~hmac=0ab81fc2eacde7eb2caa72afdbd254658694f885f4e1182713d6939426823b72)
+![Design and Development ]([https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=1060&t=st=1683567123~exp=1683567723~hmac=0ab81fc2eacde7eb2caa72afdbd254658694f885f4e1182713d6939426823b72](https://github.com/Asanda65/Asanda65/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg))
 
 Hi there! I'm Asanda Basnayake, a software engineering student specializing in front-end development. I'm passionate about creating beautiful and intuitive user interfaces that make people's lives easier. 
 
