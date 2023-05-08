@@ -5,7 +5,11 @@
 
 Hi there! I'm Asanda Basnayake, a software engineering student specializing in front-end development. I'm passionate about creating beautiful and intuitive user interfaces that make people's lives easier. 
 
-I have a solid foundation in HTML, CSS, and JavaScript. I really enjoy learning languages and frameworks like React and React Nataive. I've built a variety of projects ranging from simple landing pages to complex web applications and mobile apps using these technologies.
+My journey as a developer began with a solid foundation in HTML, CSS, and JavaScript. Since then, I have expanded upon this base by learning a variety of languages and frameworks, including React and React Native. React's component-based architecture intrigues me in particular because it enables me to design scalable and reusable UI components.
+
+I enjoy working on projects ranging in complexity from simple landing pages to complex web applications and mobile apps. When I'm not coding, I like keep myself updated on the latest industry developments and experiment with new technologies. I'm also an avid reader who enjoys learning about design patterns, user experience, and web development.
+
+Feel free to check out my GitHub repositories to see some of my past projects. If you have any questions or feedback, I'd be happy to hear from you. Let's collaborate and build something great together!
 
 ## Skills and Experience
 - ⚛️ React
