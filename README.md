@@ -3,7 +3,7 @@
 
 # Asanda Basnayake
 
-Hi there! I'm Asanda Basnayake, a software engineering student specializing in front-end development. I'm passionate about creating beautiful and intuitive user interfaces that make people's lives easier. 
+Hi there! I'm Asanda Basnayake, a software engineering student at NSBM Green University, specializing in front-end development. I'm passionate about creating beautiful and intuitive user interfaces that make people's lives easier.
 
 My journey as a developer began with a solid foundation in HTML, CSS, and JavaScript. Since then, I have expanded upon this base by learning a variety of languages and frameworks, including React and React Native. React's component-based architecture intrigues me in particular because it enables me to design scalable and reusable UI components.
 
